@@ -1,0 +1,12 @@
+com\greatlearning\ssrs\security\entity\User.class
+com\greatlearning\ssrs\entity\Student.class
+com\greatlearning\ssrs\controller\StudentController.class
+com\greatlearning\ssrs\service\impl\StudentServiceImpl.class
+com\greatlearning\ssrs\security\web\SsrsSecurityConfiguration.class
+com\greatlearning\ssrs\security\entity\SsrsUserDetails.class
+com\greatlearning\ssrs\security\repository\UserRepository.class
+com\greatlearning\ssrs\SsrsApplication.class
+com\greatlearning\ssrs\service\StudentService.class
+com\greatlearning\ssrs\security\service\impl\SsrsUserDetailsServiceImpl.class
+com\greatlearning\ssrs\controller\WelcomeController.class
+com\greatlearning\ssrs\repository\StudentRepository.class
